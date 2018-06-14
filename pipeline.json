@@ -13,8 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "namespace": "edwardsdl",
-    "repository": "sample-netcore"
+    "repository": "edwardsdl/sample-netcore"
   },
   "deploy": {
     "containerPort": 5000
