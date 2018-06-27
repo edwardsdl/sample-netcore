@@ -4,7 +4,7 @@
     "type": "netcore"
   },
   "build": {
-    "projectPath": "ValueApi/",
+    "path": "ValueApi/",
     "outputPath": "ValueApi/bin/Release/netcoreapp2.0"
   },
   "test": {
